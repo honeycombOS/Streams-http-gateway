@@ -502,7 +502,7 @@ dependencies = [
 [[package]]
 name = "gateway_core"
 version = "0.1.0"
-source = "git+https://github.com/iot2tangle/streams-gateway-core?branch=master#3e98e2872f474fb5eb4a6f32d8dc9bc1d669c500"
+source = "git+https://github.com/honeycombOS/streams-gateway-core?branch=master#10b8412f93b8e7cb1d78944fe049de81ac4d412d"
 dependencies = [
  "anyhow",
  "async-trait",
