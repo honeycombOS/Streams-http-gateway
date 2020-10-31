@@ -3,6 +3,7 @@ name = "streams-gateway"
 version = "0.2.0"
 authors = ["AleBuser <4l3bu53r@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/iot2tangle/Streams-http-gateway"
 
 [lib]
 name = "local"
